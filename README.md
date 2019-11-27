@@ -6,7 +6,7 @@ All actions happen inside the terminal itself.
                                            ********GAME********
 
 
-Simply execute this python script and start guessing the game.
+Simply execute this python script and start guessing the number.
 
 
 
