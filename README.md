@@ -1,6 +1,6 @@
 # simpleNumberGuessing:
 
-It is a .py file and can be executed in python based terminals like spyder. There is no interation with GUI as such.
+It is a .py file and can be executed in python based terminals like spyder. There is no interaction with GUI as such.
 All actions happen inside the terminal itself. 
 
                                            ********GAME********
